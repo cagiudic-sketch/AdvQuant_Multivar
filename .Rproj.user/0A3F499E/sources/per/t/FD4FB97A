@@ -1,0 +1,32 @@
+{
+    "id": "FD4FB97A",
+    "path": "~/GitHub/AdvQuant_Multivar/Multivariate_Tutorial_2023.qmd",
+    "project_path": "Multivariate_Tutorial_2023.qmd",
+    "type": "quarto_markdown",
+    "hash": "3674858389",
+    "contents": "",
+    "dirty": false,
+    "created": 1793123000391.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "cursorPosition": "53,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "1404:837",
+        "rmdVisualCollapsedChunks": "",
+        "last_setup_crc32": "6269059f6afb87df"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1793123119,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1793127019948,
+    "read_only": false,
+    "read_only_alternatives": []
+}

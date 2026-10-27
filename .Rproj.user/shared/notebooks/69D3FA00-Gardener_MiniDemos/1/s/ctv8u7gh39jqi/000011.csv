@@ -1,0 +1,4 @@
+"0","# species information"
+"0","ridge <- t(ridge.biol)"
+"0","# environmental information"
+"0","env <- t(ridge.env) "

@@ -1,0 +1,2 @@
+"0",""
+"0","plot(ridge.nmds, type = ""p"", display = c(""site"", ""species""))"
