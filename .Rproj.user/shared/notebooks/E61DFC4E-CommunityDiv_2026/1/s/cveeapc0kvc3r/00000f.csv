@@ -1,0 +1,8 @@
+"0","# the "
+"0","inv_d <- diversity(Freshies$Count, index = ""simpson"")"
+"0",""
+"0","inv_d"
+"1","[1]"
+"1"," 0.7325558"
+"1","
+"

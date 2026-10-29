@@ -1,0 +1,1 @@
+"0","plot1 <- ordiplot(mydata.mds, choices=c(1,2)) #sites are circles, + are species"

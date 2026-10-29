@@ -1,0 +1,4 @@
+"0","{"
+"0","  ordiplot(mydata.mds, display = ""sites"", main = ""Unconstrained ordination at Year 0"")"
+"0","ordihull(mydata.mds, groups = ZeroYr$habitat, draw = ""polygon"", lty = 1, col = ""grey90"")"
+"0","}"

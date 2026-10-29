@@ -1,0 +1,3 @@
+"0","ps.hc <- hclust(ps.jac)"
+"0",""
+"0","plot(ps.hc)"

@@ -1,0 +1,5 @@
+"0","# Base R version with ordiplot"
+"0","{"
+"0","ordiplot(mydata.mds, display = ""sites"", main = ""Unconstrained ordination at Year 0"")"
+"0","orditorp(mydata.mds, display = ""sites"", labels = ZeroYr$habitat, pch = c(16, 8) [as.factor(ZeroYr$habitat)], col = c(""red"", ""blue"") [as.factor(ZeroYr$habitat)])"
+"0","}"

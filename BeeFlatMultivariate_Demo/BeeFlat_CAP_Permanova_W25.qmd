@@ -23,6 +23,7 @@ output: html_document
 library(tidyverse)
 library(vegan)
 library(ggplot2)
+install.packages("ggordiplots")
 library(ggordiplots)
 ```
 

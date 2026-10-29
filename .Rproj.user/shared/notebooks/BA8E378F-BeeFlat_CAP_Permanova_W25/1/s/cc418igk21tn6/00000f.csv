@@ -1,0 +1,7 @@
+"0","# mydata.mds was the output of our NMDS above"
+"0","# envfit is a function that creates vectors for how the different environmental factors (in this case, species) correlate with the NMDS result"
+"0","# gg_envfit is the ggplot equivalent"
+"0",""
+"0","ZeroYr.sspfit <- envfit(mydata.mds, numericonly, permutations = 999)"
+"0",""
+"0","ZeroYr.sspfit_gg <- gg_envfit(mydata.mds, numericonly)"

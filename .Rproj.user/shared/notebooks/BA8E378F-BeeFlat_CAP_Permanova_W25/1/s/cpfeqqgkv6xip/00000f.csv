@@ -1,0 +1,6 @@
+"0","ZeroYr <- Beejoin %>%"
+"0","    filter("
+"0","      Year_of_restoration == 0 | "
+"0","        (Year_of_restoration == 2011 & ProjectPhase == ""CONTROL"" ) | "
+"0","        (Year_of_restoration == 2012 & ProjectPhase == ""CONTROL"")"
+"0","      )"

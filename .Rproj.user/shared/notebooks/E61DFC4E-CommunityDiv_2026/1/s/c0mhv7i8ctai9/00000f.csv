@@ -1,0 +1,5 @@
+"0","ps_long <- ps |> data.frame()"
+"0",""
+"0","colnames(ps_long) <- c(""Species"", ""Site"", ""Present"")"
+"0",""
+"0","ps_long"

@@ -1,0 +1,6 @@
+"0","{"
+"0","ordiplot(Year0.cap, type = ""n"", main = ""CAP of Year 0"")"
+"0","orditorp(Year0.cap, display = ""sites"", labels = ZeroYr$habitat, pch = c(16, 8) [(ZeroYr$habitat)], col = c(""red"", ""blue"") [as.factor(ZeroYr$habitat)])"
+"0","ordihull(Year0.cap, groups = ZeroYr$habitat, draw = ""polygon"", lty = 1, col = ""grey90"")"
+"0","orditorp(Year0.cap, display = ""species"")"
+"0","}"

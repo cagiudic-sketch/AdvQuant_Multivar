@@ -1,0 +1,5 @@
+"0","# brackets make these lines run together - needs to for the plots to overlay"
+"0","{"
+"0","ordiplot(mydata.mds, display = ""sites"", main = ""Unconstrained ordination at Year 0"")"
+"0","plot(ZeroYr.sspfit, p.max = 0.01, col = ""black"", cex = 0.7)"
+"0","} # change the significance level of species shown with p.max"

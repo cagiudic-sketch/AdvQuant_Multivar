@@ -1,0 +1,3 @@
+"0","d <- dist(antfire, method = ""euclidean"")"
+"0","h <- hclust(d)"
+"0","plot(h)"

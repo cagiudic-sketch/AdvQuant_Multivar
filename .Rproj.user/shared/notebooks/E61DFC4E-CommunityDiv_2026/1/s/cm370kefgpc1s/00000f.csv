@@ -1,0 +1,5 @@
+"0","plrich_wide <- plrich |> "
+"0","  mutate(Present = 1) |> "
+"0","  pivot_wider(names_from = Site, values_from = Present, values_fill = 0)"
+"0",""
+"0","plrich_wide"

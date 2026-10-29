@@ -1,0 +1,25 @@
+"0","install.packages(""vegan"")"
+"2","G2;WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/g
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.6/vegan_2.7-6.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 3255939 bytes (3.1 MB)
+"
+"2","downloaded 3.1 MB
+
+"
+"1","package ‘vegan’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\cagiudic\AppData\Local\Temp\RtmpiMTctT\downloaded_packages"
+"1",""
+"1","
+"
+"0","library(tidyverse)"
+"0","library(vegan)"
